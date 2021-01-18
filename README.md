@@ -1,9 +1,6 @@
 # common-bol-com-scraper
 Bol.com scraper
 
-# Screenshots
-#Todo
-
 # Installation
 Clone this repository
 - run `pip install Scrapy`
